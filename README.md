@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Appearently I edit the wrong one...
+Appearently I edited the wrong one...
 
 Take 2
